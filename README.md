@@ -1,4 +1,4 @@
-# Movieland 
+# MovieLand 
 ## Run vite front-end 
 React will run on https://localhost:3000
 ```bash
